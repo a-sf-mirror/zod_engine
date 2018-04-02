@@ -1,0 +1,137 @@
+<html><head>
+<title>The Zod Engine - An Open Source Remake of the 1996 Game Z by Bitmap Brothers</title>
+
+<style type="text/css">
+body { font-family : Lucida, Verdana, Helvetica, Arial; 
+              font-size : 10pt; 
+              font-color : #ffffff;
+              background-color : #282828;
+}
+td { font-family : Lucida, Verdana, Helvetica, Arial; 
+            font-size : 10pt; 
+            font-color: #ffffff;
+}
+
+td.small { font-family : Lucida, Verdana, Helvetica, Arial; 
+font-size : 8pt; 
+font-color: #ffffff;
+}
+
+center { font-family : Lucida, Verdana, Helvetica, Arial; 
+font-size : 7pt; 
+font-color: #ffffff;
+}
+
+center.smallgreen { font-family : Lucida, Verdana, Helvetica, Arial; 
+font-size : 7pt; 
+font-color: #00ff00;
+}
+
+A:link {color:#999999; text-decoration: none}
+A:visited {color:#999999; text-decoration: none}
+A:hover {color:#FFFFFF; text-decoration: none}
+A:active {text-decoration: none}
+</style>
+
+<!-- Google Owns You -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1472044-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Owns You Not -->
+
+</head>
+
+<body text="#FFFFFF">
+
+<table width="75%" align="center" bgcolor="#282828" border="0">
+	<tbody><tr>
+			<td>
+				
+				<table width="100%" bgcolor="#000000" border="0" cellspacing="0">
+					<tbody><tr>
+							<td>
+								<a href="index.html"><img src="images/zod_engine.png" border="0"></a>
+								</td>
+								</tr>
+								
+								<tr>
+									<td colspan="2" bgcolor="#383838">
+										The Zod Engine
+									</td>
+								</tr>
+								
+								<tr>
+									<td colspan="2">
+										<table width="100%" bgcolor="#000000" border="0">
+										<tbody><tr>
+										<td valign="top" width="20%">
+											<br><a href="index.html">About</a></br>
+											<br><a href="index.php?page=screenshots">Screenshots</a></br>
+											<br><a href="http://sourceforge.net/projects/zod/files/">Download</a></br>
+											<br><a href="fluxBB/index.php">Forum</a></br>
+											<br></br><hr><br><a href="http://zzone.lewe.com/">ZZone</a></br>
+											<br><a href="http://www.nighsoft.com/">Nighsoft</a></br>
+											<br></br>
+											<img src="images/heavy.png"> <img src="images/tough_fire.png"> <img src="images/priest.png"> <img src="images/flag.png">
+											
+											<p><table border=0 width=100%><tr><td>
+											<center class="smallgreen" ><font color="#00FF00">
+											Support the Zod Engine</font>
+											
+											<p><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+															<input type="hidden" name="cmd" value="_s-xclick">
+																<input type="hidden" name="hosted_button_id" value="8GED4H4N6A38A">
+																	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+																		<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+												</form>
+												
+											<!-- <p><a href="index.php?page=donation_history">Donation History</a> -->
+											
+											<!-- Like Stuff -->
+												
+											<p>
+											<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://zod.sourceforge.net/" layout="button_count" show_faces="false" width="90" colorscheme="dark"></fb:like>
+											
+											<!-- Like Stuff End -->
+											
+											</tr></td></table>
+											
+											</center></br></br>
+										</td>
+										
+										<td valign="top" width="80%" height="100%">
+											<center>
+
+<p><object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/8VehUvuWHqw&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/8VehUvuWHqw&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+<p><object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/OlhfHZd7CL4&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OlhfHZd7CL4&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+<p><object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/oUda7sFEt4I&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/oUda7sFEt4I&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+</center>										
+									</td>
+									</tr></tbody></table></td>   </tr>
+					
+					<tr>
+						<td colspan="2" >
+							<hr>
+								<table width="100%" bgcolor="#000000" border="0" cellspacing="8" padding="8">
+									<tr><td class="small">
+								The Zod Engine is developed by Nighsoft at <a href="http://www.nighsoft.com">www.nighsoft.com</a> for the general public. The source is currently under the GPLv3 license. Many thanks to the <a href="http://zzone.lewe.com/">ZZone</a> (the official Z fansite) community and their help.
+							</td></tr>
+							</table>
+					</td></tr>
+			</tbody></table> </td></tr></tbody></table>
+
+<img src="http://www.nighsoft.com/zod_content/zod_aff_ip.php" width=0 height=0>			
+</body></html>
